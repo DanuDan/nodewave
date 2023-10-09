@@ -32,7 +32,7 @@ export default function SectionStart() {
     ]
 
     return (
-        <div className="w-screen h-auto relative" id="start">
+        <div className="w-screen h-auto relative border-none" id="start">
             <div className="w-full p-2 md:p-10">
                 <div className="w-full space-y-14 justify-center" >
                     <div className="text-4xl font-semibold text-center ">

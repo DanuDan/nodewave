@@ -27,7 +27,7 @@ export default function BaseFooter() {
     ]
 
     return (
-        <div className="w-full flex flex-col items-center space-y-6 py-8 justify-center">
+        <div className="w-full flex flex-col items-center space-y-6 py-8 justify-center bg-black border-none">
             <Image src={require(`@/assetts/Logo.svg`)} alt="social" className="w-56 h-11" />
             <div className="text-center space-y-6">
                 <div>
